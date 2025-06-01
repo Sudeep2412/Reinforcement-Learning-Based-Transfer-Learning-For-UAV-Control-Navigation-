@@ -1,0 +1,5 @@
+train: /mnt/c/Users/sudee/OneDrive/Desktop/Research/train/images/train
+val: /mnt/c/Users/sudee/OneDrive/Desktop/Research/train/images/val
+labels: /mnt/c/Users/sudee/OneDrive/Desktop/Research/train/labels  # Add label path explicitly
+nc: 2
+names: ['class1', 'class2']
